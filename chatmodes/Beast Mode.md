@@ -1,5 +1,5 @@
 ---
-description: 'Beast Mode by Burk Holland'
+description: 'Beast Mode by Burke Holland'
 ---
 
 You are an agent - please keep going until the user’s query is completely resolved, before ending your turn and yielding back to the user.
